@@ -1,0 +1,81 @@
+[Information Gathering]
+	https://www.shodan.io/
+	https://search.censys.io/
+	https://web.archive.org/
+	https://dnsdumpster.com/
+	https://github.com/aboul3la/Sublist3r
+
+[OSINT]
+	https://github.com/laramies/theHarvester
+	https://osintframework.com/
+
+[CVEs & Exploits]
+	https://www.exploit-db.com/
+	https://cve.mitre.org/
+	https://nvd.nist.gov/
+	https://www.cve.org/
+	https://attackerkb.com/
+
+[Cmd Manuals]
+	https://ss64.com/
+	https://www.linux.org/docs/man1/index.html
+	https://linux.die.net/man/
+	https://man7.org/linux/man-pages/index.html
+	https://www.commandlinux.com/man-page/man1/
+
+[Reverse Shells]
+	https://swisskyrepo.github.io/InternalAllTheThings/cheatsheets/shell-reverse-cheatsheet/
+
+[Passwords Online Cracking]
+	https://crackstation.net/
+	https://md5decrypt.net/en/
+	https://hashes.com/en/decrypt/hash
+
+[Privileges Escalation]
+	[Linux]
+		https://github.com/rebootuser/LinEnum
+		https://gtfobins.github.io/
+
+	[Windows]
+		https://github.com/PowerShellMafia/PowerSploit
+		https://github.com/peass-ng/PEASS-ng
+		https://lolbas-project.github.io/
+
+[Auxiliaries]
+	https://antiscan.me/
+	https://www.virustotal.com/
+	https://gchq.github.io/CyberChef/
+	https://haveibeenpwned.com/
+
+Introduction to Networks:
+=================
+https://lnkd.in/dxeaSvge
+
+CCNA 2: Essentials:
+============
+https://lnkd.in/dD-mZ8Mv
+
+CCNA 3: Enterprise:
+=================
+https://lnkd.in/dnhUvY-G
+
+BUG BOUNTY PROGRAMS:
+================
+https://www.bugcrowd.com/
+https://hackerone.com/
+
+BASH AND POWERSHELL LEARNING:
+https://exercism.org/
+https://devhints.io/
+
+CTF LIVE CHALLENGES:
+https://www.hkcert.org/event/capture-the-flag-challenge-2024
+https://www.hkctf.org/
+
+
+Other:
+https://lolbas-project.github.io/
+https://www.shodan.io/
+https://www.exploit-db.com/
+https://nvd.nist.gov/
+https://www.virustotal.com/gui/home/upload
